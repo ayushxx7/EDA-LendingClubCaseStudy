@@ -1,0 +1,5 @@
+C:\Users\91808\anaconda3\lib\site-packages\IPython\core\interactiveshell.py:3165: DtypeWarning: Columns (47) have mixed types.Specify dtype option on import or set low_memory=False.
+  has_raised = await self.run_ast_nodes(code_ast.body, cell_name,
+ 
+ We got above error hence while importing we are using encoding = "ISO-8859-1", low_memory=False
+ 
